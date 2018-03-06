@@ -12,7 +12,7 @@
   
   captured data can easily be converted to a csv file using ¨sudo python file_name.py > output.csv¨
   
-  we captured data at library, myroom, jumbo, citycentre
+  we captured data at library, myroom, De-hoven passage, citycentre
   
   all files captured are uploaded each type is saved into a seperate  csv  file.
   
